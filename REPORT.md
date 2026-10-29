@@ -1,9 +1,8 @@
-# Manufacturing Downtime Analysis Report
+# Maven Manufacturing Analysis
 
 *Prepared by Caio Bergamo*
 
-Manufacturing Downtime
-Analysis Report
+[Back to project overview](README.md) · [Data source and methodology](DATA_SOURCE.md)
 
 ## Executive summary
 
